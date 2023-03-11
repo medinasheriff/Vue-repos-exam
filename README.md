@@ -8,4 +8,4 @@
       single repo clicked from the list of repos using nested routes. Make sure to
       implement a wildcard route to catch 404 pages. NB: Good UI and Designs are important.
 
-      [Hosted Link](https://vercel.com/medinasheriff/vue-repos-exam)
+[Hosted Link](https://vercel.com/medinasheriff/vue-repos-exam)
